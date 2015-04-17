@@ -2,10 +2,14 @@
 
 Code from the video: [https://www.youtube.com/watch?v=p-x6WdwaJco](https://www.youtube.com/watch?v=p-x6WdwaJco)
 
-#### Requirements
-* Node/ NPM
+### Requirements
+* Node.js/NPM
 * MongoDB
 
-#### Install
-* npm install
-* node server.js
+### Install
+```bash
+$ git clone https://github.com/matthoiland/restful-api-demo.git
+$ cd restful-api-demo
+$ npm install
+$ node server
+```
